@@ -1,0 +1,50 @@
+.button {
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 30px;
+    color: black;
+    padding: 10px;
+    background: blanchedalmond;
+}
+
+.sub-container {
+    margin-left: 25px;
+    margin-top: 40px;
+
+}
+
+p{
+    margin: 8px;
+}
+
+.container {
+    margin: 50px auto;
+    width: 60%;
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(224, 224, 224);
+    height: 90%;
+}
+
+.button-container {
+    margin-top: 30px;
+}
+
+.phone-container {
+    position: relative;
+}
+
+.prefix {
+    position: absolute;
+    padding: 3px;
+}
+
+input {
+    padding: 5px;
+    border-radius: 30px;
+    border: 2px solid black
+}
+
+.checkbox-container {
+    margin: 10px 0 0 0;
+}
